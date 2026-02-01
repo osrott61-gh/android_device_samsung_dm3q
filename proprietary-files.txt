@@ -13,9 +13,11 @@ vendor/lib64/hw/audio.primary.kalama.so
 
 # Audio configs
 vendor/etc/audio/sku_kalama/mixer_paths.xml
+vendor/etc/audio/sku_kalama/resourcemanager.xml
 vendor/etc/audio_effects_haptic.xml
 vendor/etc/dolby/dax-default.xml
 vendor/etc/situation_audio_policy_volumes_sec.xml
+vendor/etc/usecaseKvManager.xml
 
 # Audio firmware
 vendor/firmware/SoundBoosterParam.bin
@@ -322,6 +324,9 @@ vendor/firmware/gmu_gen70200.bin
 vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|8cfff6975022b793aad7ef5ec6dabe8165d4874b
 vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|a1b5c78bb442c758b380f5f9b60db77e59a70c53
 vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|5b8e8f6ca626eb3b38387c1f2d8a248ed1f9ed43
+
+# Media
+vendor/lib64/libqc2audio_hwaudiocodec.so
 
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf
