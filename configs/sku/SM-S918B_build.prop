@@ -1,8 +1,6 @@
-bluetooth.device.default_name=Galaxy S23 Ultra
 ro.product.odm.brand=samsung
 ro.product.odm.device=dm3q
 ro.product.odm.manufacturer=samsung
 ro.product.odm.model=SM-S918B
 ro.product.odm.name=dm3qxxx
 ro.product.odm.marketname=Samsung Galaxy S23 Ultra
-vendor.usb.product_string=Galaxy S23 Ultra

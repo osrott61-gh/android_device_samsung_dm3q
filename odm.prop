@@ -1,3 +1,9 @@
+# Bluetooth
+bluetooth.device.default_name=Galaxy S23 Ultra
+
+# USB
+vendor.usb.product_string=Galaxy S23 Ultra
+
 # SKU properties
 ro.product.property_source_order=odm,product,vendor,system_ext,system
 import /odm/etc/sku_props/${ro.boot.em.model}_build.prop
